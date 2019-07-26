@@ -1,0 +1,6 @@
+framework module Pods_hoodDrip {
+  umbrella header "Pods-hoodDrip-umbrella.h"
+
+  export *
+  module * { export * }
+}
